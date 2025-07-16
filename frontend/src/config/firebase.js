@@ -9,13 +9,13 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBdy5tt2Y57LQ_K2n_jXWrF0I9_0h7Wqfs",
-  authDomain: "taskify-28ba1.firebaseapp.com",
-  projectId: "taskify-28ba1",
-  storageBucket: "taskify-28ba1.firebasestorage.app",
-  messagingSenderId: "953983670679",
-  appId: "1:953983670679:web:3d6fcae10eabe9e7c20cd2",
-  measurementId: "G-FHLXX39PT3",
+  apiKey: "AIzaSyBJMZU0Q6OzUC_8CXO3X5TpyNS-z-Ybv6k",
+  authDomain: "taskify-a4953.firebaseapp.com",
+  projectId: "taskify-a4953",
+  storageBucket: "taskify-a4953.firebasestorage.app",
+  messagingSenderId: "797371349869",
+  appId: "1:797371349869:web:7eb53173c219034b8cb864",
+  measurementId: "G-QG62T723NV",
 };
 
 // Initialize Firebase
