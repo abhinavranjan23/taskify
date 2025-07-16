@@ -17,7 +17,7 @@ const limiter = rateLimit({
 });
 
 const corsOptions = {
-  origin: ["http://localhost:5173", "https://taskify.taniyakamboj.info"],
+  origin: ["http://localhost:5173", "https://taskify.abhinavranjan.me"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
 };
