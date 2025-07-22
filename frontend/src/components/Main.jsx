@@ -10,7 +10,7 @@ const Main = () => {
   useUserAuth(); // this can open login popup if needed, but should not be conditional
 
   if (user) {
-    return <Navigate to='/alltask' replace />; // or any route you want
+    return <Navigate to='/alltask' replace />;
   }
 
   return (
